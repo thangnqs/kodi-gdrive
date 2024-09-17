@@ -4,7 +4,7 @@ Hướng dẫn chứng thực Google Drive Stream Video trên Kodi App
 
 Nguồn tham khảo: [https://github.com/aldacco/drive-login]
 
-Video hướng dẫn xem tại đây [https://bit.ly/3B5aQ30]
+Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3YY]
 
 
 ## Các bước chuẩn bị
