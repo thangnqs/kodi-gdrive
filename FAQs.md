@@ -1,6 +1,6 @@
 ## ⚠️ Fixed "The server is temporary unavailable for this operation. Please try again later"
 
-Một số bạn gặp phải lỗi "The server is temporary unavailable for this operation. Please try again later" khi mở Kodi qua Google Drive.
+Một số bạn gặp phải lỗi "The server is temporary unavailable for this operation. Please try again later" khi mở Google Drive trên Kodi.
 
 <img src="images/6dGnGystto.png" width=300>
 
