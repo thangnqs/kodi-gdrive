@@ -67,7 +67,3 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 ## BƯỚC 6: Chứng thực tài khoản Google Drive trên Kodi
 
 - Cung cấp quyền truy cập ( xem thêm video hướng dẫn )
-
-## 👋 DONATE Mình ly Cà phê
-
-<img src="images/donate.png" width=325 />
