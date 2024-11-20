@@ -146,7 +146,7 @@ function html(current_drive_order = 0, model = {}) {
 	src="https://code.jquery.com/jquery-3.7.1.min.js"
 	integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
 	crossorigin="anonymous"></script>
-	<script src="#"></script>
+	<script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/thangnqs/kodi-gdrive/worker/cdn/app.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
   </head>
   <body>
