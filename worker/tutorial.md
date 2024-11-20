@@ -21,21 +21,21 @@ https://github.com/user-attachments/assets/89a9f76c-16ee-4601-a354-980ca5c11baf
 
 - Chọn "Drive API V3" => ``https://www.googleapis.com/auth/drive``
 
-<img src="images/6mDUBbxaTO.png" width="400">
+<img src="../images/6mDUBbxaTO.png" width="400">
 
 - Thực hiện các bước theo hình, cuối cùng chọn ``Authorize APIs``
 
-<img src="images/X1CCVKAclZ.png" width="400">
+<img src="../images/X1CCVKAclZ.png" width="400">
 
-<img src="images/Qj3SWDJBdK.png" width="400">
+<img src="../images/Qj3SWDJBdK.png" width="400">
 
-<img src="images/tyqbMgTq8X.png" width="400">
+<img src="../images/tyqbMgTq8X.png" width="400">
 
-<img src="images/KLkMpBUvTT.png" width="400">
+<img src="../images/KLkMpBUvTT.png" width="400">
 
-<img src="images/MJkBisK5WA.png" width="400">
+<img src="../images/MJkBisK5WA.png" width="400">
 
-<img src="images/CkV72JpU2h.png" width="400">
+<img src="../images/CkV72JpU2h.png" width="400">
 
 - Sau khi copy giá trị "REFRESH_TOKEN" thì đã hoàn tất bước này. 
 
@@ -63,34 +63,34 @@ var YOUR_ACCESS = {
 
 - Lưu lại file ``workers.js``
 
-<img src="images/5xVMa4AhVS.png" width="400">
+<img src="../images/5xVMa4AhVS.png" width="400">
 
 
 - Truy cập tài khoản Cloudflare chọn ``Workers & Pages`` chọn ``Created`` new ``Workers``
 
-<img src="images/Ak2Iq57JCp.png" width="400">
+<img src="../images/Ak2Iq57JCp.png" width="400">
 
-<img src="images/dZ9b4qwQqU.png" width="400">
+<img src="../images/dZ9b4qwQqU.png" width="400">
 
-<img src="images/7XMMJWKuyL.png" width="400">
+<img src="../images/7XMMJWKuyL.png" width="400">
 
-<img src="images/3fhUm7Vsvp.png" width="400">
+<img src="../images/3fhUm7Vsvp.png" width="400">
 
 - Copy toàn bộ nội dung trong file ``worker.js`` bạn đã lưu vào và nhấn ``Deploys``
 
-<img src="images/idCQ39yhuI.png">
+<img src="../images/idCQ39yhuI.png">
 
 - Sau khi ``Deploy`` thành công bạn copy đường dẫn website tại mục ``Preview`` địa chỉ sẽ có URL tương tự như ``https://play.xxxx.workers.dev``. Trong đó ``play`` là tên của bạn đặt.
 
-<img src="images/cHWjyNZIcU.png" width="400">
+<img src="../images/cHWjyNZIcU.png" width="400">
 
 - Truy cập vào website, lần đầu tiên bạn phải nhập tài khoản ``username`` và ``password`` giá trị bạn đã tạo trong file ``workers.js``
 
-<img src="images/qODpeyzWKE.png" width="400">
+<img src="../images/qODpeyzWKE.png" width="400">
 
 - Giao diện website "quen thuộc" sẽ hiện ra. Bạn có thể truy cập địa chỉ website trên thiết bị di động.
 
-<img src="images/nDKgFctCG8.png" width="400" >
+<img src="../images/nDKgFctCG8.png" width="400" >
 
 ### 5. SỬ DỤNG ỨNG DỤNG STREAM VIDEO
 
