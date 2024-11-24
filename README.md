@@ -1,5 +1,24 @@
 # Kodi GDrive Add-on [Updated: 11/2024 ]
 
+### HOT NEWS 
+
+Phiên bản 2.0 [https://github.com/aldacco/drive-login] đã có UPDATE MỚI NHẤT
+
+- **Không còn sử dụng REDIS** 
+- Thay đổi cấu hình như file ``config.txt`` 
+
+⚠️ CÁC CẤU HÌNH TRONG VIDEO SỬ DỤNG REDIS KHÔNG CÒN GIÁ TRỊ [https://www.youtube.com/watch?v=EVHgg7JM3YY]
+
+
+⚠️ GIÁ TRỊ `NEXT_PUBLIC_CLIENT_ID` THAY BẰNG ``GOOGLE_CLIENT_ID``
+
+⚠️ GIÁ TRỊ `NEXT_PUBLIC_CLIENT_SECRET` THAY BẰNG ``GOOGLE_CLIENT_SECRET``
+
+❌ KHÔNG CÒN SỬ DỤNG `NEXT_PUBLIC_REDIS_CONNECTION`
+
+⚠️ PHIÊN BẢN < 2.0 VẪN SỬ DỤNG BÌNH THƯỜNG.
+
+
 ### [Fixed] The server is temporary unavailable? [click here](https://github.com/thangnqs/kodi-gdrive/blob/master/FAQs.md)
 
  
@@ -16,7 +35,6 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 ## Các bước chuẩn bị
 
 - Tài khoản Github [https://github.com/signup]
-- Tài khoản Upstash [https://console.upstash.com/login]
 - Tài khoản Vercel [https://vercel.com/]
 - Tài khoản Google Drive
 
@@ -28,28 +46,18 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 
 - Đăng nhập bằng tài khoản.
 
-## BƯỚC 2: Đăng ký tài khoản Upstash
 
-- Truy cập [https://console.upstash.com/login] chọn đăng ký tài khoản bằng tài khoản Github ở bước 1
-- Thực hiện tạo Database (như trong video), sau đó bạn có đường dẫn URL là xong bước này
-
-- Đường dẫn sẽ tương tự như vậy:
-
-`rediss://default:AdBNAAIjcDE2YmNjMTYzYiThlY2M0YTc2YmNhODY2OGx3YTwrlM2ZjNnAsMA@fine-dolphin-53325.upstash.io:6379`
-
-## BƯỚC 3: Đăng ký tài khoản Vercel ( dùng để tạo trang web )
+## BƯỚC 2: Đăng ký tài khoản Vercel ( dùng để tạo trang web )
 
 - Truy cập [https://vercel.com] chọn Sign-Up tài khoản Vercel bằng Github
 - Fork mã nguồn từ đường dẫn [https://github.com/aldacco/drive-login]
 - Tại giao diện Vercel.com, thực hiện import dự án
 - Dán cấu hình như file config.txt vào mục Enviroment
-- Giá trị `NEXT_PUBLIC_CLIENT_ID` và `NEXT_PUBLIC_CLIENT_SECRET` lấy tại **BƯỚC 3**
-- Giá trị `NEXT_PUBLIC_REDIS_CONNECTION` lấy tại **BƯỚC 2**
+- Giá trị `GOOGLE_CLIENT_ID` và `GOOGLE_CLIENT_SECRET` lấy tại **BƯỚC 2**
 
 ## BƯỚC 4: Tạo Google Certificate API
-
 - Truy cập [https://console.cloud.google.com] để tạo API
-- Xem video để lấy các giá trị `NEXT_PUBLIC_CLIENT_ID` và `NEXT_PUBLIC_CLIENT_SECRET`
+- Xem video để lấy các giá trị `GOOGLE_CLIENT_ID` và `GOOGLE_CLIENT_SECRET`
 
 👋 **QUAN TRỌNG**
 
