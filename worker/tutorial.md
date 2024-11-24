@@ -1,5 +1,7 @@
 ## Sử dụng Cloudflare Worker Stream Google Drive
 
+* Dành cho một số bạn đam mê công nghệ!
+
 ### 1. Nội dung chính
 - Tạo một Web Server ( FREE ) để stream video từ Google Drive
 

@@ -1,6 +1,13 @@
-# Kodi GDrive Add-on
+# Kodi GDrive Add-on [Updated: 11/2024 ]
 
-Hướng dẫn chứng thực Google Drive Stream Video trên Kodi App
+### [Fixed] The server is temporary unavailable? [click here](https://github.com/thangnqs/kodi-gdrive/blob/master/FAQs.md)
+
+ 
+### Hướng dẫn chi tiết ( đọc từ trên xuống )
+
+Bạn có thể xem hướng dẫn chi tiết tại [đây](https://github.com/aldacco/drive-login).
+
+Hướng dẫn chứng thực Google Drive Stream Video trên Kodi App 
 
 Nguồn tham khảo: [https://github.com/aldacco/drive-login]
 
@@ -67,3 +74,10 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 ## BƯỚC 6: Chứng thực tài khoản Google Drive trên Kodi
 
 - Cung cấp quyền truy cập ( xem thêm video hướng dẫn )
+
+
+### TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM
+- Tất cả nội dung hướng dẫn trong mục đích GIÁO DỤC.
+- Tôi không chịu trách nhiệm pháp lý Việt Nam nếu bạn lạm dụng nó vào mục
+đích xấu.
+- Vui lòng tìm hiểu kỹ trước khi sử dụng, trường hợp mất dữ liệu, tài khoản .. hoặc bất kỳ vấn đề gì trên tài khoản của bạn. Tôi không có trách nhiệm trong việc này!
