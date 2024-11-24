@@ -2,7 +2,7 @@
 
 <img src="images/C8ATITIbki.png" with="500">
 
-- Lỗi này do bạn sử dụng mã nguồn mới nhất 2.0 từ tác giả [https://github.com/aldacco/drive-login]
+- Lỗi này do bạn sử dụng mã nguồn mới nhất 2.0 (Phiên bản từ ngày 25/11/2024) từ tác giả [https://github.com/aldacco/drive-login]
 
 - Bạn cần vào Vercel.com để thay đổi Enviroment Setting như file ``config.txt`` [click_here](https://github.com/thangnqs/kodi-gdrive/blob/master/config.txt)
 

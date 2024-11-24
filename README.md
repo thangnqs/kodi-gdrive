@@ -2,7 +2,7 @@
 
 ### HOT NEWS 
 
-Phiên bản 2.0 [https://github.com/aldacco/drive-login] đã có UPDATE MỚI NHẤT
+*Phiên bản 2.0 (25/11/2024)* [https://github.com/aldacco/drive-login] đã có **UPDATE MỚI NHẤT**
 
 - **Không còn sử dụng REDIS** 
 - Thay đổi cấu hình như file ``config.txt`` 
