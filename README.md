@@ -55,7 +55,7 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 - Dán cấu hình như file config.txt vào mục Enviroment
 - Giá trị `GOOGLE_CLIENT_ID` và `GOOGLE_CLIENT_SECRET` lấy tại **BƯỚC 2**
 
-## BƯỚC 4: Tạo Google Certificate API
+## BƯỚC 3: Tạo Google Certificate API
 - Truy cập [https://console.cloud.google.com] để tạo API
 - Xem video để lấy các giá trị `GOOGLE_CLIENT_ID` và `GOOGLE_CLIENT_SECRET`
 
