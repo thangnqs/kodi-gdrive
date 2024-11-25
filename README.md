@@ -4,10 +4,10 @@
 
 *Phiên bản 2.0 (25/11/2024)* [https://github.com/aldacco/drive-login] đã có **UPDATE MỚI NHẤT**
 
-- **Không còn sử dụng REDIS** 
+- **Không còn sử dụng UNTASH REDIS** 
 - Thay đổi cấu hình như file ``config.txt`` 
 
-⚠️ CÁC CẤU HÌNH TRONG VIDEO SỬ DỤNG REDIS KHÔNG CÒN GIÁ TRỊ [https://www.youtube.com/watch?v=EVHgg7JM3YY]
+⚠️ CÁC CẤU HÌNH TRONG VIDEO SỬ DỤNG UNTASH REDIS KHÔNG CÒN GIÁ TRỊ [https://www.youtube.com/watch?v=EVHgg7JM3YY]
 
 
 ⚠️ GIÁ TRỊ `NEXT_PUBLIC_CLIENT_ID` THAY BẰNG ``GOOGLE_CLIENT_ID``
