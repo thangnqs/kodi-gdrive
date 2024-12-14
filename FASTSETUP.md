@@ -1,4 +1,4 @@
-# 5 PHÚT SETUP KODI VÀ GOOGLE DRIVE
+# 7 PHÚT SETUP KODI VÀ GOOGLE DRIVE
 
 ## Các bước chuẩn bị
 
@@ -6,10 +6,11 @@
 - Tài khoản Vercel [https://vercel.com/]
 - Tài khoản Google Drive [https://console.cloud.google.com]
 
+#### Lưu ý: Nên dùng Github để login Vercel.com
 
 ## GOOGLE
 
-### Go to [https://console.cloud.google.com/]
+### Truy cập trang [https://console.cloud.google.com/] và làm theo hướng dẫn như hình dưới
 
 <img src="images/jQGjlklihi.png" width="600">
 
@@ -77,6 +78,8 @@
 
 ### Goto [https://vercel.com]
 
+https://github.com/user-attachments/assets/e818be65-1b6b-48ed-8f35-7492c1ddceea
+
 <img src="images/SzSzOSyCAn.png" width=600>
 
 <br/>
@@ -97,9 +100,17 @@
 
 <img src="images/Wm8l2jBvfg.png" width=600>
 
-### URL + /callback
+### URL của bạn từ Vercel + /callback
+
+####  Ví dụ ``https://mykodi.vercel.app/callback``
+
+####  Dán URL của bạn vào mục ``Authorized redirect URIs``
 
 <img src="images/oNgxjNrNCa.png" width=600>
+
+### Truy cập để tạo các giá trị biến cho Vercel
+
+<img src="images/zN2Nia0fz0.png" width=600>
 
 <br />
 
@@ -135,6 +146,8 @@
 
 <br/>
 
+### KHÔNG CÓ có giá trị `/` phía sau website
+
 <img src="images/njPvNIeQSn.png" width=600>
 
 <br/>
@@ -144,4 +157,7 @@
 <br/>
 
 <img src="images/emFyr1DZPg.png" width=600>
+
+
+### ``Bạn đã cài đặt thành công!``
 
