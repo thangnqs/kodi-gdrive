@@ -114,11 +114,9 @@ https://github.com/user-attachments/assets/e818be65-1b6b-48ed-8f35-7492c1ddceea
 
 <br />
 
-```GOOGLE_CLIENT_ID="9957...p.apps.googleusercontent.com"```
+#### -- Tạo key tên `GOOGLE_CLIENT_ID` và set giá trị từ ``CLIENT_ID`` vào.
 
-<br/>
-
-```GOOGLE_CLIENT_SECRET="GOCSPX-6baaaaaa6s-aaaaaaa"```
+#### -- Tạo key tên `GOOGLE_CLIENT_SECRET` và set giá trị từ ``CLIENT_SECRET`` vào.
 
 <br />
 
